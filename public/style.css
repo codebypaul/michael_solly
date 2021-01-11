@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background: rgb(138, 117, 0);
+    height: 100vh;
+}
+a{
+    color: black;
+}
+.card-cont{
+    height: 100vh;
+}
+.business-card{
+    box-shadow: 0 0 5px 5px rgb(100,100,100,.7);
+}
+.name-area{
+    border-radius: .5rem;
+}
+@media screen and (min-width:600px){
+    .business-card{
+        margin-top: 10rem;
+    }
+}
+@media screen and (min-width:768px){
+
+}
+@media screen and (min-width:900px){
+
+}
+@media screen and (min-width:1024px){
+
+}
+@media screen and (min-width(75,75,75px){
+
+}
